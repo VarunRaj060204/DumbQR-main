@@ -19,7 +19,7 @@ Key Features:
 
 ## Frontend Repository
 
-
+https://github.com/VarunRaj060204/DumbQR-frontend
 
 ## Support
 
